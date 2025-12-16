@@ -88,7 +88,7 @@ export const RightSidebar = () => {
       {/* Footer */}
       <div className="absolute bottom-6 left-6 right-6">
         <p className="text-xs text-muted-foreground/50">
-          © 2024 SocialeX · About · Help · Privacy · Terms
+          © 2025 SocialeX · About · Help · Privacy · Terms
         </p>
       </div>
     </aside>
