@@ -2,6 +2,13 @@
 
 SocialeX is a full-stack social media application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and Socket.IO for real-time communication. The app allows users to connect, share posts, chat in real-time, and interact securely with an intuitive and interactive interface.
 
+# 📸 Project Demo Screenshots
+- 🏠 Home Feed
+![Screenshot_16-12-2025_151750_sociale-x-social-media-app-espq vercel app](https://github.com/user-attachments/assets/a8522082-636d-44d4-b6a1-d28b00263f80)
+
+- Profile settings
+- ![Screenshot_16-12-2025_151812_sociale-x-social-media-app-espq vercel app](https://github.com/user-attachments/assets/92666c8f-31e1-4cbb-acc9-d9c409465bea)
+
 # Project documentation
 https://docs.google.com/document/d/1d7znM89oefXRJ0mjIAnnwsjnGxsGA8mE/edit?usp=drive_link&ouid=112648483801653183596&rtpof=true&sd=true
 
