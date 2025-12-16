@@ -9,6 +9,9 @@ SocialeX is a full-stack social media application built with the MERN stack (Mon
 - Profile settings
 - ![Screenshot_16-12-2025_151812_sociale-x-social-media-app-espq vercel app](https://github.com/user-attachments/assets/92666c8f-31e1-4cbb-acc9-d9c409465bea)
 
+# Project Deployed Link: 
+https://sociale-x-social-media-app.vercel.app
+
 # Project documentation
 https://docs.google.com/document/d/1d7znM89oefXRJ0mjIAnnwsjnGxsGA8mE/edit?usp=drive_link&ouid=112648483801653183596&rtpof=true&sd=true
 
